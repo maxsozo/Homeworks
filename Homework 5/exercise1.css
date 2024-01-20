@@ -1,0 +1,125 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 35px;
+    width: 99.5vw;
+    background-color: #83E783;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 97vw;
+    background-color: #D3B714;
+    display: flex;
+}
+
+.image1 {
+    width: 154.44px;
+    height: 50px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 250px;
+}
+
+.centralObjects {
+    width: 99.5vw;
+    height: 84vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 82px;
+}
+
+.object2 {
+    text-align: center;
+    height: 120vh;
+}
+
+.object1 {
+    background-color: #C798B9;
+    width: 250px;
+    height: 120vh;
+    text-align: center;
+}
+
+.object3 {
+    background-color: #9CB1C7;
+    width: 250px;
+    height: 120vh;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    width: 73vw;
+    height: 63vh;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.title {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+}
+
+.container {
+    width: 19vw;
+    height: 40vh;
+    border: 1px solid #000;
+    justify-content: center;
+    border-radius: 5%;
+    margin-top: 25px;
+}
+
+.btn {
+    width: 35px;
+    height: 20px;
+    background-color: #685174;
+    border-radius: 20%;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    top: 10px;
+}
+
+.description {
+    padding: 0 15px 0 15px; 
+    height: 70px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.image {
+    padding: 15px 0 0 0;
+}
+
+.title2 {
+    font-weight: 600;
+}
+
+.topText {
+    font-weight: 550;
+}

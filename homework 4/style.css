@@ -1,0 +1,176 @@
+/* Завдання №1 */
+
+/* .cart1{
+width: 6%;
+position: absolute;
+top: 370px;
+left: 800px;
+z-index: 3;
+  transform: skew(-10deg, 10deg);
+  transition: transform 0.3s ease;
+}
+.cart1:hover{
+    transform: skew(-10deg, 10deg) translateY(-20px);
+}
+
+.cart2{
+width: 6%;
+position: absolute;
+    top: 357px;
+    left: 775px;
+    z-index: 2;
+transform: skew(8deg,-8deg);
+transition: transform 0.3s ease;
+}
+
+.cart2:hover{
+    transform: skew(8deg, -8deg) translateY(-20px);
+}
+
+.cart3{
+width: 6%;
+position: absolute;
+top: 350px;
+left: 755px;
+z-index: 1;
+transform: skew(22deg, -22deg);
+transition: transform 0.3s ease;
+}
+
+.cart3:hover{
+    transform: skew(22deg, -22deg) translateY(-20px);
+}
+
+dfn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-color: #0d5825;    
+} */
+
+
+/* Завдання №2 */
+
+/* .red-square{
+    width: 150px;
+    height: 150px;
+    background-color: #F88A87;
+    position: absolute;
+
+}
+
+.blue-square{
+    width: 150px;
+    height: 150px;
+    background-color: #7D89F2;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.green-square{
+    width: 150px;
+    height: 150px;
+    background-color: #6BEF8D;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+} */
+
+
+/* Завдання №3 */
+
+/* .menu{
+    width: 330px;
+    height: 400px;
+    background-color: #808080;
+    box-sizing: border-box;
+    position: absolute;
+    left: -310px;
+    transition: transform 0.5s ease;
+}
+
+.menu:hover{
+   transform:translateX(310px)
+}
+
+.text{
+    color: #E7E7E7;
+    position: relative;
+    left: 40px;
+}
+
+.text::before {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background-color: #D58F2B;
+    border: 1px solid #3E2A09;
+    transform: rotate(45deg);
+    top: 8px;
+    left: -10px;
+}
+
+.text:hover{
+color: #D58F2B;
+} */
+
+
+/* Завдання №4 */
+/* @keyframes moveCube {
+0% {
+    transform: translate(-50%, -50%);
+    background-color: red;
+}
+25% {
+    transform: translate(-50%, 50%);
+    background-color: blue;
+}
+50% {
+    transform: translate(50%, 50%);
+    background-color: green;
+}
+75% {
+    transform: translate(50%, -50%);
+    background-color: yellow;
+}   
+100% {
+    transform: translate(-50%, -50%);
+    background-color: red;
+}
+  }
+    
+  .cube{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    animation: moveCube 3s linear infinite;
+    position: absolute;
+  }
+
+ body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh; 
+      margin: 0;
+      background-color: #0E0E0E;
+    }
+
+    .container {
+        position: relative;
+      }
+
+      .center{
+        width: 250px;
+        height: 250px;
+        background-color: #FFFDFF;
+      } */

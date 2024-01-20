@@ -1,0 +1,77 @@
+    .info {
+        width: 400px;
+    }
+
+    .name {
+        position: relative;
+        left: 58px;
+    }
+
+    .email {
+        position: relative;
+        left: 54px;
+    }
+
+    .tel {
+        position: relative;
+        left: 40px;
+    }
+
+    .info input { 
+        margin-top: 7px;
+        margin-bottom: 7px; 
+    }
+
+    .countries label {
+        position: relative;
+    }
+
+    textarea {
+        resize: none;
+        height: 150px; 
+    }
+
+    textarea .info {
+        width: inherit;
+    }
+
+    .custom-checkbox {
+        position: relative;
+        cursor: pointer;
+        font-size: 16px;
+        display: inline-block;
+        line-height: 24px; 
+      }
+      
+      .custom-checkbox input {
+        
+        opacity: 0;
+        cursor: pointer;
+      }
+      
+      .checkmark {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 24px; 
+        width: 24px; 
+        background-color: #4BC300; 
+        border-radius: 4px;
+      }
+      
+      .checkmark:after {
+        content: '';
+        position: absolute;
+        display: none;
+        left: 7px; 
+        width: 8px; 
+        height: 15px;
+        border: solid #FFFFFF;
+        border-width: 0 3px 3px 0;
+        transform: rotate(45deg);
+      }
+      
+      .custom-checkbox input:checked + .checkmark:after {
+        display: block;
+      }
+      

@@ -1,0 +1,103 @@
+/* Завдання №1 */
+
+/* html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}*/
+/* HTML5 display-role reset for older browsers */
+/*article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} */
+
+
+
+/* Завдання №2 */
+/* div{
+    color: green;
+    width: 350px;
+    height: 220px;
+    margin: 0px 0px 30px 0px;
+    padding: 15px 10px 20px;
+    border: 2px solid red;
+    border-style: dotted;
+    box-sizing: border-box;
+} */
+
+
+
+/* Завдання №3 */
+/* p{
+    width: 500px;
+    height: 500px;
+}
+
+.img-num1 {
+    float: left;
+    width: 200px;
+    height: 120px;
+  }
+
+  .img-num2 {
+    float: right;
+    width: 150px;
+    height: 90px;
+  } */
+
+
+
+  /* Завдання №4 */
+  /* *{
+    margin: 0;
+  }
+  p::before{
+content: '•  ';
+  } */
+
+
+  
+  /* Завдання  №5 */
+  /* .bg-box{
+    height: 100vh;
+    width: 100%;
+    background: url(https://photographers.ua/thumbnails/pictures/36678/800xmyv_663726134.jpg) center center no-repeat, 
+    url(https://wordassociations.net/image/600x/svg_to_png/rg1024_Grass_texture.png) bottom /60px 60px repeat-x, 
+    url(https://i.pinimg.com/originals/4b/66/53/4b6653a8323e114727083f7ede8ab76a.png) right / 60px 60px repeat-y,
+    url(https://cdn-icons-png.flaticon.com/512/4823/4823241.png) top / 60px 60px repeat-x,
+    url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru) left / 60px 60px repeat-y;
+    background-color: green;
+} */
